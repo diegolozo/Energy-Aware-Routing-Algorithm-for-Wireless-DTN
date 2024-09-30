@@ -1,4 +1,4 @@
-function distance = alpha(dist )
+function distance = alpha(dist)
 if dist < 2
   distance =1;
 elseif dist <4
